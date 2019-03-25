@@ -1,0 +1,9 @@
+#ifndef POLYGONTRIANGULATION_HPP
+#define POLYGONTRIANGULATION_HPP
+
+class PolygonTriangulation {
+
+};
+
+
+#endif /* POLYGONTRIANGULATION_HPP */

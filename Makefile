@@ -1,6 +1,6 @@
 CC = g++
 CDFLAGS = -Wall -g
-SRC = main.cpp EarClipping.cpp
+SRC = main.cpp PolygonTriangulation.cpp
 OBJ = $(SRC:%.cpp=%.o)
 EXE = main.out
 
