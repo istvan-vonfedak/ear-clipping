@@ -1,6 +1,6 @@
 CC = g++
 CDFLAGS = -Wall -g
-SRC = main.cpp PolygonTriangulation.cpp
+SRC = main.cpp polygonTriangulation.cpp
 OBJ = $(SRC:%.cpp=%.o)
 EXE = main.out
 
